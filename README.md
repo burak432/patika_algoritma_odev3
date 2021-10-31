@@ -1,0 +1,1 @@
+# patika_algoritma_odev3
